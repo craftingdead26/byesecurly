@@ -28,6 +28,34 @@ www.securly.com CNAME .
 tabpilot.com CNAME .
 *.uswest-www-alb-1430906465.us-west-1.elb.amazonaws.com CNAME .
 uswest-www-alb-1430906465.us-west-1.elb.amazonaws.com CNAME .
+*.hosted-extensions.s3.us-west-2.amazonaws.com CNAME .
+hosted-extensions.s3.us-west-2.amazonaws.com CNAME .
+*.x3-report-uploads.s3.us-west-2.amazonaws.com CNAME .
+x3-report-uploads.s3.us-west-2.amazonaws.com CNAME .
+*.beacon-report-uploads-prod.s3.us-west-2.amazonaws.com CNAME .
+beacon-report-uploads-prod.s3.us-west-2.amazonaws.com CNAME .
+*.relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+*.apiproxy-website-nlb-prod-3-ac110f6ae472b85a.elb.eu-west-1.amazonaws.com CNAME .
+apiproxy-website-nlb-prod-3-ac110f6ae472b85a.elb.eu-west-1.amazonaws.com CNAME .
+*.firehose.us-west-2.amazonaws.com CNAME .
+firehose.us-west-2.amazonaws.com CNAME .
+*.us-west-2.elb.amazonaws.com CNAME .
+us-west-2.elb.amazonaws.com CNAME .
+*.5rw61tcrl5.execute-api.us-west-2.amazonaws.com CNAME .
+5rw61tcrl5.execute-api.us-west-2.amazonaws.com CNAME .
+*.relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+*.s3-website.us-west-2.amazonaws.com CNAME .
+s3-website.us-west-2.amazonaws.com CNAME .
+*.lsrelay-config-production.s3.amazonaws CNAME .
+lsrelay-config-production.s3.amazonaws CNAME .
+*.lsrelay-extensions-production.s3.amazonaws.com CNAME .
+lsrelay-extensions-production.s3.amazonaws.com CNAME .
+*.b16rt683ll.execute-api.us-west-2.amazonaws.com CNAME .
+b16rt683ll.execute-api.us-west-2.amazonaws.com CNAME .
+*.p7nvu5it0k.execute-api.us-west-2.amazonaws.com CNAME .
+p7nvu5it0k.execute-api.us-west-2.amazonaws.com CNAME .
 
 ; Securly PAC
 
