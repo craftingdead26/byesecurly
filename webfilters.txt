@@ -1,0 +1,381 @@
+; Skidded from https://raw.githubusercontent.com/thegreatestgiant/cdn/main/Blocklist.txt, and slightly modified to get
+; rid of example.org blocking, ty for the list.
+; Goguardian
+
+; Goguardian
+*.ext.goguardian.com CNAME .
+ext.goguardian.com CNAME .
+*.goguardian.com CNAME .
+goguardian.com CNAME .
+*.pusher.com CNAME .
+pusher.com CNAME .
+*.laptoplookout.com CNAME .
+laptoplookout.com CNAME .
+*.kinesis.us-west-2.amazonaws.com CNAME .
+kinesis.us-west-2.amazonaws.com CNAME .
+*.hosted-extensions.s3.us-west-2.amazonaws.com CNAME .
+hosted-extensions.s3.us-west-2.amazonaws.com CNAME .
+*.x3-report-uploads.s3.us-west-2.amazonaws.com CNAME .
+x3-report-uploads.s3.us-west-2.amazonaws.com CNAME .
+*.beacon-report-uploads-prod.s3.us-west-2.amazonaws.com CNAME .
+beacon-report-uploads-prod.s3.us-west-2.amazonaws.com CNAME .
+*.com-default.ws CNAME .
+com-default.ws CNAME .
+*.testing-v4.metric.gstatic.com CNAME .
+testing-v4.metric.gstatic.com CNAME .
+
+; Extensions and some other random ones
+
+*.tools.google.com CNAME .
+tools.google.com CNAME .
+*.dl.google.com CNAME .
+dl.google.com CNAME .
+*.clients2.google.com CNAME .
+clients2.google.com CNAME .
+*.ep.learnplatform.com CNAME .
+ep.learnplatform.com CNAME .
+*.policies.google.com CNAME .
+policies.google.com CNAME .
+*.chromereporting-pa.googleapis.com CNAME .
+chromereporting-pa.googleapis.com CNAME .
+*.storage.googleapis.com CNAME .
+storage.googleapis.com CNAME .
+*.gopher-buddy-prod.appspot.com CNAME .
+gopher-buddy-prod.appspot.com CNAME .
+
+; LightSpeed
+
+*.relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+relay-production-sockets-alb-1210277364.us-west-2.elb.amazonaws.com CNAME .
+*.lightspeedsystems.com CNAME .
+lightspeedsystems.com CNAME .
+*.s3-website.us-west-2.amazonaws.com CNAME .
+s3-website.us-west-2.amazonaws.com CNAME .
+*.lsrelay-config-production.s3.amazonaws CNAME .
+lsrelay-config-production.s3.amazonaws CNAME .
+*.lsrelay-extensions-production.s3.amazonaws.com CNAME .
+lsrelay-extensions-production.s3.amazonaws.com CNAME .
+*.b16rt683ll.execute-api.us-west-2.amazonaws.com CNAME .
+b16rt683ll.execute-api.us-west-2.amazonaws.com CNAME .
+*.p7nvu5it0k.execute-api.us-west-2.amazonaws.com CNAME .
+p7nvu5it0k.execute-api.us-west-2.amazonaws.com CNAME .
+*.sqs.us-west-2.amazonaws.com CNAME .
+sqs.us-west-2.amazonaws.com CNAME .
+*.lightspeed-apps.s3.amazonaws.com CNAME .
+lightspeed-apps.s3.amazonaws.com CNAME .
+*.lsmdm.com CNAME .
+lsmdm.com CNAME .
+*.lsaccess.me CNAME .
+lsaccess.me CNAME .
+*.lsaccess.com CNAME .
+lsaccess.com CNAME .
+*.lsurl.me CNAME .
+lsurl.me CNAME .
+*.lightspeed-realtime.ably.io CNAME .
+lightspeed-realtime.ably.io CNAME .
+*.a-fallback-lightspeed.ably.io CNAME .
+a-fallback-lightspeed.ably.io CNAME .
+*.b-fallback-lightspeed.ably.io CNAME .
+b-fallback-lightspeed.ably.io CNAME .
+*.c-fallback-lightspeed.ably.io CNAME .
+c-fallback-lightspeed.ably.io CNAME .
+*.realtime.ably.io CNAME .
+lsclassroom.com CNAME .
+*.relay.school CNAME .
+relay.school CNAME .
+*.lsfilter.com CNAME .
+lsfilter.com CNAME .
+*.lsrelayaccess.com CNAME .
+lsrelayaccess.com CNAME .
+*.devices.lsmdm.com CNAME .
+devices.lsmdm.com CNAME .
+*.lsagent.fcps.org CNAME .
+lsagent.fcps.org CNAME .
+*.rest.ably.io CNAME .
+rest.ably.io CNAME .
+*.global.stun.twillo.com CNAME .
+global.stun.twillo.com CNAME .
+*.global.turn.twillo.com CNAME .
+global.turn.twillo.com CNAME .
+*.apiproxy-website-nlb-prod-3-ac110f6ae472b85a.elb.eu-west-1.amazonaws.com CNAME .
+apiproxy-website-nlb-prod-3-ac110f6ae472b85a.elb.eu-west-1.amazonaws.com CNAME .
+*.firehose.us-west-2.amazonaws.com CNAME .
+firehose.us-west-2.amazonaws.com CNAME .
+*.us-west-2.elb.amazonaws.com CNAME .
+us-west-2.elb.amazonaws.com CNAME .
+*.5rw61tcrl5.execute-api.us-west-2.amazonaws.com CNAME .
+5rw61tcrl5.execute-api.us-west-2.amazonaws.com CNAME .
+
+; Linewise
+
+*.familyzone.io CNAME .
+familyzone.io CNAME .
+*.linewize.io CNAME .
+linewize.io CNAME .
+*.linewize.com CNAME .
+linewize.com CNAME .
+*.limewize.net CNAME .
+limewize.net CNAME .
+*.linewize.net CNAME .
+linewize.net CNAME .
+*.familyzone.com CNAME .
+familyzone.com CNAME .
+*.smoothwall.cloud CNAME .
+smoothwall.cloud CNAME .
+
+; Securly
+
+*.securly.com CNAME .
+securly.com CNAME .
+*.www.securly.com CNAME .
+www.securly.com CNAME .
+*.tabpilot.com CNAME .
+tabpilot.com CNAME .
+*.uswest-www-alb-1430906465.us-west-1.elb.amazonaws.com CNAME .
+uswest-www-alb-1430906465.us-west-1.elb.amazonaws.com CNAME .
+
+; Securly PAC
+
+*.smartpac-shutdown.securly.com CNAME .
+smartpac-shutdown.securly.com CNAME .
+
+; Blocksi
+
+*.blocksi.net CNAME .
+blocksi.net CNAME .
+*.block.si CNAME .
+block.si CNAME .
+*.ipify.org CNAME .
+ipify.org CNAME .
+*.ip-api.com CNAME .
+ip-api.com CNAME .
+; iirc this breaks proxyguard, sorry tn
+
+; Iboss
+
+*.ibosscloud.com CNAME .
+ibosscloud.com CNAME .
+*.iboss.si CNAME .
+iboss.si CNAME .
+
+; Cisco  
+
+*.opendns.com CNAME .
+opendns.com CNAME .
+*.umbrella.cisco.com CNAME .
+umbrella.cisco.com CNAME .
+*.crl3.digicert.com CNAME .
+crl3.digicert.com CNAME .
+*.crl4.digicert.com CNAME .
+crl4.digicert.com CNAME .
+*.ocsp.digicert.com CNAME .
+ocsp.digicert.com CNAME .
+*.s.tunnels.ironport.com CNAME .
+s.tunnels.ironport.com CNAME .
+
+; Content Keeper
+
+*.contentkeeper.io CNAME .
+contentkeeper.io CNAME .
+*.contentkeeper.net CNAME .
+contentkeeper.net CNAME .
+*.contentkeeper.com CNAME .
+contentkeeper.com CNAME .
+*.fastvue.co CNAME .
+fastvue.co CNAME .
+
+; Gopher Buddy
+*.amplifiedit.com CNAME .
+amplifiedit.com CNAME .
+*.gopher-buddy-prod.appspot.com CNAME .
+gopher-buddy-prod.appspot.com CNAME .
+
+; FortiGuard / Fortinet
+*.forticlient.com CNAME .
+forticlient.com CNAME .
+
+; Hapara
+*.hapara.com CNAME .
+hapara.com CNAME .
+*.teacherdashboard.com CNAME .
+teacherdashboard.com CNAME .
+*.mystudentdashboard.com CNAME .
+mystudentdashboard.com CNAME .
+*.pusherapp.com CNAME .
+pusherapp.com CNAME .
+*.pusher.com CNAME .
+pusher.com CNAME .
+*.teacher-db.appspot.com CNAME .
+teacher-db.appspot.com CNAME .
+*.haparaview.appspot.com CNAME .
+haparaview.appspot.com CNAME .
+*.td-admin.appspot.com CNAME .
+td-admin.appspot.com CNAME .
+*.td-setup.appspot.com CNAME .
+td-setup.appspot.com CNAME .
+*.bomgar.com CNAME .
+*.bomgar.com CNAME .
+
+; LanSchool
+*.lanschool.com CNAME .
+lanschool.com CNAME .
+*.lanschoolair.lenovo.com CNAME .
+lanschoolair.lenovo.com CNAME .
+*.lenovosoftware.com CNAME .
+lenovosoftware.com CNAME .
+
+; Net Reef
+*.net-ref.com CNAME .
+net-ref.com CNAME .
+
+; Palo Alto
+*.paloaltonetworks.com CNAME .
+paloaltonetworks.com CNAME .
+
+; LFGL
+*.lgfl.net CNAME .
+lgfl.net CNAME .
+*.safehomeschool.net CNAME .
+safehomeschool.net CNAME .
+
+; Zscaler
+*.zscalerone.net CNAME .
+zscalerone.net CNAME .
+*.zscaler.com CNAME .
+zscaler.com CNAME .
+
+; Sophos
+*.sophos.com CNAME .
+sophos.com CNAME .
+
+; Qustodio
+*.qustodio.com CNAME .
+qustodio.com CNAME .
+
+; DyKnow
+*.dyknow.com CNAME .
+dyknow.com CNAME .
+
+; LGFL, the abreviation is the name.
+*.safehomeschool.net CNAME .
+safehomeschool.net CNAME .
+*.lgfl.net CNAME .
+lgfl.net CNAME .
+*.netsweeper.com CNAME .
+netsweeper.com CNAME .
+
+; Senso Cloud
+*.senso.cloud CNAME .
+senso.cloud CNAME .
+
+
+; General monitoring tools: 
+*.learnplatform.com CNAME . 
+learnplatform.com CNAME . 
+*.kiddoware.com CNAME . 
+kiddoware.com CNAME . 
+*.mobileguardian.com CNAME .
+mobileguardian.com CNAME .
+
+; Bark
+
+; Actual Domains
+*.bark.us CNAME .
+bark.us CNAME .
+*.barkforschools.com CNAME .
+barkforschools.com CNAME .
+*.bark.app CNAME .
+bark.app CNAME .
+
+; All AWS servers
+*.ec2-3-208-203-229.compute-1.amazonaws.com CNAME .
+ec2-3-208-203-229.compute-1.amazonaws.com CNAME .
+*.ec2-54-197-189-131.compute-1.amazonaws.com CNAME .
+ec2-54-197-189-131.compute-1.amazonaws.com CNAME .
+*.ec2-23-21-246-79.compute-1.amazonaws.com CNAME .
+ec2-23-21-246-79.compute-1.amazonaws.com CNAME .
+*.ec2-3-222-46-47.compute-1.amazonaws.com CNAME .
+ec2-3-222-46-47.compute-1.amazonaws.com CNAME .
+*.ec2-18-204-74-215.compute-1.amazonaws.com CNAME .
+ec2-18-204-74-215.compute-1.amazonaws.com CNAME .
+*.dualstack.titleall-1498646681.us-east-1.elb.amazonaws.com CNAME .
+dualstack.titleall-1498646681.us-east-1.elb.amazonaws.com CNAME .
+*.ec2-52-1-172-112.compute-1.amazonaws.com CNAME .
+ec2-52-1-172-112.compute-1.amazonaws.com CNAME .
+*.ec2-52-20-75-81.compute-1.amazonaws.com CNAME .
+ec2-52-20-75-81.compute-1.amazonaws.com CNAME .
+*.awseb-e-v-awsebloa-1ioafv91ffxq7-1038271640.us-east-1.elb.amazonaws.com CNAME .
+awseb-e-v-awsebloa-1ioafv91ffxq7-1038271640.us-east-1.elb.amazonaws.com CNAME .
+*.eps-dev-ecs-alb-1196863871.us-east-1.elb.amazonaws.com CNAME .
+eps-dev-ecs-alb-1196863871.us-east-1.elb.amazonaws.com CNAME .
+*.test.us-east-1.verify-delete-ser.oinse1rw.beta.forgeinternaldnsapps.ec2.aws.dev CNAME .
+test.us-east-1.verify-delete-ser.oinse1rw.beta.forgeinternaldnsapps.ec2.aws.dev CNAME .
+*.c84963acd44ea608bb56c3adb27f6cdb-255793865.us-east-1.elb.amazonaws.com CNAME .
+c84963acd44ea608bb56c3adb27f6cdb-255793865.us-east-1.elb.amazonaws.com CNAME .
+*.ec2-35-170-206-52.compute-1.amazonaws.com CNAME .
+ec2-35-170-206-52.compute-1.amazonaws.com CNAME .
+*.ec2-44-208-249-49.compute-1.amazonaws.com CNAME .
+ec2-44-208-249-49.compute-1.amazonaws.com CNAME .
+*.ec2-44-208-199-202.compute-1.amazonaws.com CNAME .
+ec2-44-208-199-202.compute-1.amazonaws.com CNAME .
+*.ec2-34-226-146-13.compute-1.amazonaws.com CNAME .
+ec2-34-226-146-13.compute-1.amazonaws.com CNAME .
+*.agent-slb-49887559.us-east-1.elb.amazonaws.com CNAME .
+agent-slb-49887559.us-east-1.elb.amazonaws.com CNAME .
+
+; Gabb
+
+; Actual Domains
+*.gabb.com CNAME .
+gabb.com CNAME .
+*.gabbcloud.com CNAME .
+gabbcloud.com CNAME .
+*.gabbwireless.com CNAME .
+gabbwireless.com CNAME .
+*.gabbphone.com CNAME .
+gabbphone.com CNAME .
+
+
+; AWS Domains
+*.ec2-3-228-43-67.compute-1.amazonaws.com CNAME .
+ec2-3-228-43-67.compute-1.amazonaws.com CNAME .
+*.ec2-34-235-233-121.compute-1.amazonaws.com CNAME .
+ec2-34-235-233-121.compute-1.amazonaws.com CNAME .
+*.ec2-184-72-248-117.compute-1.amazonaws.com CNAME .
+ec2-184-72-248-117.compute-1.amazonaws.com CNAME .
+*.ec2-18-215-40-71.compute-1.amazonaws.com CNAME .
+ec2-18-215-40-71.compute-1.amazonaws.com CNAME .
+*.26e2b11da9cebfcf5142d1722747f1d5.gr7.us-east-1.eks.amazonaws.com CNAME .
+26e2b11da9cebfcf5142d1722747f1d5.gr7.us-east-1.eks.amazonaws.com CNAME .
+*.ec2-52-21-69-105.compute-1.amazonaws.com CNAME .
+ec2-52-21-69-105.compute-1.amazonaws.com CNAME .
+*.fd7977b2009a0fb0d1f57ba88ce180de.gr7.us-east-1.eks.amazonaws.com CNAME .
+*.fd7977b2009a0fb0d1f57ba88ce180de.gr7.us-east-1.eks.amazonaws.com CNAME .
+
+; homophobic fucks - outing kids to schools
+; because it "protects them" is not okay.
+; It never will be. I hope you go bankrupt.
+*.deledao.com CNAME .
+deledao.com CNAME .
+*.dldschool.org CNAME .
+dldschool.org CNAME .
+*.apisanta.com CNAME .
+apisanta.com CNAME .
+
+; Mobile Guardian - I think my toaster is more secure than you.
+*.mobileguardian.com CNAME .
+mobileguardian.com CNAME .
+
+; jamf
+sentry.pub.jamf.build CNAME .
+jamfcloud.com CNAME .
+jamf.com CNAME .
+launchdarkly.com CNAME .
+*.sentry.pub.jamf.build CNAME .
+*.jamfcloud.com CNAME .
+*.jamf.com CNAME .
+*.launchdarkly.com CNAME .
+
+; parental spyware momen, havent looked into them much
+qustodio.com CNAME .
+*.qustodio.com CNAME .
